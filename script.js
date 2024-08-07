@@ -157,11 +157,11 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     document.getElementById('creatorChannelBtn').addEventListener('click', () => {
-        window.open('https://whatsapp.com/channel/0029VacXVLtF1YlLF0XDlv3z', '_blank');
+        window.open('https://t.me/atechcryptochannel', '_blank');
     });
 
     whatsappChannelBtn.addEventListener('click', () => {
-        window.open('https://whatsapp.com/channel/0029VacXVLtF1YlLF0XDlv3z', '_blank');
+        window.open('https://t.me/atechcryptochannel', '_blank');
     });
 
     const generateClientId = () => {
